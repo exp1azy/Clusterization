@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LabWork.ClusterAnalysis.Test": {
+      "commandName": "Project",
+      "commandLineArgs": "in.csv",
+      "hotReloadEnabled": false
+    }
+  }
+}

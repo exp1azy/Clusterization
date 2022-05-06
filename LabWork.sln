@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabWork.ClusterAnalysis", "LabWork.ClusterAnalysis\LabWork.ClusterAnalysis.csproj", "{3639A36E-71E1-4C43-9716-8C851F61322B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabWork.ClusterAnalysis.Test", "LabWork.ClusterAnalysis.Test\LabWork.ClusterAnalysis.Test.csproj", "{D85FB869-737A-46E5-8B82-549BD9C714D3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LabWork.Visualization", "LabWork.Visualization\LabWork.Visualization.pyproj", "{E1DCB996-E8E2-4A03-8C80-B6E564100517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork.FormTest", "LabWork.FormTest\LabWork.FormTest.csproj", "{6AC492DC-935C-4FC8-949E-E7B284731E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3639A36E-71E1-4C43-9716-8C851F61322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3639A36E-71E1-4C43-9716-8C851F61322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3639A36E-71E1-4C43-9716-8C851F61322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3639A36E-71E1-4C43-9716-8C851F61322B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85FB869-737A-46E5-8B82-549BD9C714D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85FB869-737A-46E5-8B82-549BD9C714D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85FB869-737A-46E5-8B82-549BD9C714D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85FB869-737A-46E5-8B82-549BD9C714D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DCB996-E8E2-4A03-8C80-B6E564100517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DCB996-E8E2-4A03-8C80-B6E564100517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC492DC-935C-4FC8-949E-E7B284731E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC492DC-935C-4FC8-949E-E7B284731E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC492DC-935C-4FC8-949E-E7B284731E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC492DC-935C-4FC8-949E-E7B284731E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64463504-7EA9-4F38-981F-9AE3FF52B7A3}
+	EndGlobalSection
+EndGlobal
